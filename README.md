@@ -1,2 +1,3 @@
 # Everest-Hack-Challenges
-Challenges In everest-hack
+~~Challenges In everest-hack~~
+##Decommissioned
